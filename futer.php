@@ -320,7 +320,7 @@
 
 <p><a href="mailto:info@afmaracaibo.org">info@afmaracaibo.org</a></p>
 
-<p><small>Desarrollado por:</small></br> <a href="http://raynz.com.ve" target="_blank"><img src="http://afmaracaibo.org/raynz.png" width="150"></a></p>
+<p><small>Desarrollado por:</small></br> <a href="http://hozt.com.ve" target="_blank"><img src="http://afmaracaibo.org/wp-content/themes/afm/images/logob.png" width="150"></a></p>
 
 
 
