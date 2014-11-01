@@ -132,7 +132,7 @@
 
 <p>
 
-  <img src="img/cursosmenu.jpg?1332881439"><br>
+  <img src="http://afmaracaibo.org/wp-content/themes/afm/img/cursosmenu.jpg?1332881439"><br>
 
 </p>
 
@@ -244,7 +244,7 @@
 
 <p>
 
-  <img src="img/culturalmenu.jpg?1332881386">
+  <img src="http://afmaracaibo.org/wp-content/themes/afm/img/culturalmenu.jpg?1332881386">
 
 </p>
 
@@ -332,7 +332,7 @@
 
                   <div class="subnav-content-highlight">
 
-                            <p><img src="img/mdiatecamenu.jpg?1333041245"><br></p><p>
+                            <p><img src="http://afmaracaibo.org/wp-content/themes/afm/img/mdiatecamenu.jpg?1333041245"><br></p><p>
 
   La Mediateca de la Alianza Francesa de Maracaibo es un espacio privilegiado que se pone a disposición del público francófono, estudiantes y publico general.
 
@@ -386,7 +386,7 @@
 
 <p>
 
-  <img src="img/instalacionesmenu.jpg?1332894544"><br>
+  <img src="http://afmaracaibo.org/wp-content/themes/afm/img/instalacionesmenu.jpg?1332894544"><br>
 
 </p>
 
@@ -462,7 +462,7 @@
 
                   <div class="subnav-content-highlight">
 
-                            <p><img src="img/nosotrosmenu.jpg?1332881536"><br></p><p>
+                            <p><img src="http://afmaracaibo.org/wp-content/themes/afm/img/nosotrosmenu.jpg?1332881536"><br></p><p>
 
   Reseña histórica, antecedentes y crecimiento de nuestra institucion.
 
