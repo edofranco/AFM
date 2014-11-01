@@ -15,7 +15,7 @@
 
       </div>
 
-    <div class="video-teaser"> <a href="http://player.vimeo.com/video/95951819?portrait=0&amp;autoplay=1" class="video youtube" target=&quot;_blank&quot;><img src="img/video.jpg"></a>
+    <div class="video-teaser"> <a href="http://player.vimeo.com/video/95951819?portrait=0&amp;autoplay=1" class="video youtube" target=&quot;_blank&quot;><img src="http://afmaracaibo.org/wp-content/themes/afm/img/video.jpg"></a>
 
 <ul class="pager front-video-bullets">
 
@@ -119,7 +119,7 @@
 
       <div class="rotating-item slider-1">
 
-      <img alt="Home_guy_hat" class="frontpage-slider-img" src="001.jpg?1333989035" />
+      <img alt="Home_guy_hat" class="frontpage-slider-img" src="http://afmaracaibo.org/wp-content/themes/afm/001.jpg?1333989035" />
 
       <a href="why-study-here.html" class="home-slider"  slide-img-data="/system/attached_images/208/images/original/HOME_guy_hat.jpg?1333989035" data-interval=8>
 
@@ -153,7 +153,7 @@
 
       <div class="rotating-item slider-2">
 
-      <img alt="Home_vancouver2" class="frontpage-slider-img" src="002.jpg?1333989256" />
+      <img alt="Home_vancouver2" class="frontpage-slider-img" src="http://afmaracaibo.org/wp-content/themes/afm/002.jpg?1333989256" />
 
       <a href="#" class="home-slider"  slide-img-data="/system/attached_images/209/images/original/HOME_vancouver2.jpg?1333989256" >
 
@@ -187,7 +187,7 @@
 
       <div class="rotating-item slider-2">
 
-      <img alt="Home_vancouver2" class="frontpage-slider-img" src="003.jpg?1333989256" />
+      <img alt="Home_vancouver2" class="frontpage-slider-img" src="http://afmaracaibo.org/wp-content/themes/afm/003.jpg?1333989256" />
 
       <a href="#" class="home-slider"  slide-img-data="/system/attached_images/209/images/original/HOME_vancouver2.jpg?1333989256" >
 
@@ -221,7 +221,7 @@
 
       <div class="rotating-item slider-2">
 
-      <img alt="Home_vancouver2" class="frontpage-slider-img" src="004.jpg?1333989256" />
+      <img alt="Home_vancouver2" class="frontpage-slider-img" src="http://afmaracaibo.org/wp-content/themes/afm/004.jpg?1333989256" />
 
       <a href="#" class="home-slider"  slide-img-data="/system/attached_images/209/images/original/HOME_vancouver2.jpg?1333989256" >
 
@@ -255,7 +255,7 @@
 
       <div class="rotating-item slider-3">
 
-      <img alt="Home_girl" class="frontpage-slider-img" src="005.jpg?1333989295" />
+      <img alt="Home_girl" class="frontpage-slider-img" src="http://afmaracaibo.org/wp-content/themes/afm/005.jpg?1333989295" />
 
       <a href="#" class="home-slider"  slide-img-data="/system/attached_images/210/images/original/HOME_girl.jpg?1333989295" >
 
@@ -289,7 +289,7 @@
 
       <div class="rotating-item slider-3">
 
-      <img alt="Home_girl" class="frontpage-slider-img" src="006.jpg?1333989295" />
+      <img alt="Home_girl" class="frontpage-slider-img" src="http://afmaracaibo.org/wp-content/themes/afm/006.jpg?1333989295" />
 
       <a href="#" class="home-slider"  slide-img-data="/system/attached_images/210/images/original/HOME_girl.jpg?1333989295" >
 
@@ -323,7 +323,7 @@
 
       <div class="rotating-item slider-3">
 
-      <img alt="Home_girl" class="frontpage-slider-img" src="007.jpg?1333989295" />
+      <img alt="Home_girl" class="frontpage-slider-img" src="http://afmaracaibo.org/wp-content/themes/afm/007.jpg?1333989295" />
 
       <a href="#" class="home-slider"  slide-img-data="/system/attached_images/210/images/original/HOME_girl.jpg?1333989295" >
 
@@ -357,7 +357,7 @@
 
       <div class="rotating-item slider-4">
 
-      <img alt="Home_ubc" class="frontpage-slider-img" src="008.jpg?1333989346" />
+      <img alt="Home_ubc" class="frontpage-slider-img" src="http://afmaracaibo.org/wp-content/themes/afm/008.jpg?1333989346" />
 
       <a href="#" class="home-slider"  slide-img-data="/system/attached_images/211/images/original/HOME_ubc.jpg?1333989346" >
 
@@ -453,7 +453,7 @@
 
   </div>
 
-  <div class="news-image"><a href="http://afmaracaibo.org/cultural/concursos/v-concurso-de-moda.html"><img alt="Noticia 001" src="img/noticia001.jpg?1333991890" /></a></div>
+  <div class="news-image"><a href="http://afmaracaibo.org/cultural/concursos/v-concurso-de-moda.html"><img alt="Noticia 001" src="http://afmaracaibo.org/wp-content/themes/afm/img/noticia001.jpg?1333991890" /></a></div>
 
 </div>
 
@@ -475,7 +475,7 @@
 
 </div>
 
-<div class="news-image" style="width: 180px; height: 172px;"><a href="http://afmaracaibo.org/cultural/cinema/cinefrances2014.html"><img class="news_image" src="img/noticia002.jpg"/></a></div>
+<div class="news-image" style="width: 180px; height: 172px;"><a href="http://afmaracaibo.org/cultural/cinema/cinefrances2014.html"><img class="news_image" src="http://afmaracaibo.org/wp-content/themes/afm/img/noticia002.jpg"/></a></div>
 
 </div>
 
@@ -497,7 +497,7 @@
 
 </div>
 
-<div class="news-image" style="width: 180px; height: 172px;"><a href="http://afmaracaibo.org/cultural/musica/fiestadelamusica2014.html"><img class="news_image" src="img/noticia003.jpg"/></a></div>
+<div class="news-image" style="width: 180px; height: 172px;"><a href="http://afmaracaibo.org/cultural/musica/fiestadelamusica2014.html"><img class="news_image" src="http://afmaracaibo.org/wp-content/themes/afm/img/noticia003.jpg"/></a></div>
 
 </div>
 
@@ -771,27 +771,27 @@
 
     <ul>
 
-		 <a href="http://www.france.fr/" target="_blank"><img src="img/logo001.jpg" width="106" height="46"></a> 
+		 <a href="http://www.france.fr/" target="_blank"><img src="http://afmaracaibo.org/wp-content/themes/afm/img/logo001.jpg" width="106" height="46"></a> 
 
-         <a href="http://www.france24.com/fr/" target="_blank"><img src="img/logo002.jpg" width="106" height="46"></a> 
+         <a href="http://www.france24.com/fr/" target="_blank"><img src="http://afmaracaibo.org/wp-content/themes/afm/img/logo002.jpg" width="106" height="46"></a> 
 
-         <a href="http://www.institutfrancais.com/" target="_blank"><img src="img/logo003.jpg" width="106" height="46"></a>
-
-            </br></br></br>
-
-		 <a href="http://www.ciep.fr/es/delfdalf/" target="_blank"><img src="img/logo004.jpg" width="106" height="46"></a> 
-
-	     <a href="http://www.immigration-quebec.gouv.qc.ca/fr/index.html" target="_blank"><img src="img/logo005.jpg" width="106" height="46"></a> 
-
-         <a href="http://www.rfi.fr/" target="_blank"><img src="img/logo006.jpg" width="106" height="46"></a> 
+         <a href="http://www.institutfrancais.com/" target="_blank"><img src="http://afmaracaibo.org/wp-content/themes/afm/img/logo003.jpg" width="106" height="46"></a>
 
             </br></br></br>
 
-		 <a href="http://www.campusfrance.org/fr/" target="_blank"><img src="img/logo007.jpg" width="106" height="46"></a> 
+		 <a href="http://www.ciep.fr/es/delfdalf/" target="_blank"><img src="http://afmaracaibo.org/wp-content/themes/afm/img/logo004.jpg" width="106" height="46"></a> 
 
-         <a href="http://www.afvenezuela.org/" target="_blank"><img src="img/logo008.jpg" width="106" height="46"></a> 
+	     <a href="http://www.immigration-quebec.gouv.qc.ca/fr/index.html" target="_blank"><img src="http://afmaracaibo.org/wp-content/themes/afm/img/logo005.jpg" width="106" height="46"></a> 
 
-         <a href="http://www.fondation-alliancefr.org/" target="_blank"><img src="img/logo009.jpg" width="106" height="46"></a> 
+         <a href="http://www.rfi.fr/" target="_blank"><img src="http://afmaracaibo.org/wp-content/themes/afm/img/logo006.jpg" width="106" height="46"></a> 
+
+            </br></br></br>
+
+		 <a href="http://www.campusfrance.org/fr/" target="_blank"><img src="http://afmaracaibo.org/wp-content/themes/afm/img/logo007.jpg" width="106" height="46"></a> 
+
+         <a href="http://www.afvenezuela.org/" target="_blank"><img src="http://afmaracaibo.org/wp-content/themes/afm/img/logo008.jpg" width="106" height="46"></a> 
+
+         <a href="http://www.fondation-alliancefr.org/" target="_blank"><img src="http://afmaracaibo.org/wp-content/themes/afm/img/logo009.jpg" width="106" height="46"></a> 
 
 	
 
