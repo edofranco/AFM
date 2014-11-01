@@ -51,7 +51,7 @@
 
       <div class="rotating-item slider-1">
 
-      <img alt="Home_guy_hat" class="frontpage-slider-img" src="fiesta.jpg?1333989035" />
+      <img alt="Home_guy_hat" class="frontpage-slider-img" src="http://afmaracaibo.org/wp-content/themes/afm/fiesta.jpg?1333989035" />
 
       <a href="why-study-here.html" class="home-slider"  slide-img-data="/system/attached_images/208/images/original/HOME_guy_hat.jpg?1333989035" data-interval=8>
 
@@ -85,7 +85,7 @@
 
      <div class="rotating-item slider-1">
 
-      <img alt="Home_guy_hat" class="frontpage-slider-img" src="fiesta.jpg?1333989035" />
+      <img alt="Home_guy_hat" class="frontpage-slider-img" src="http://afmaracaibo.org/wp-content/themes/afm/fiesta.jpg?1333989035" />
 
       <a href="why-study-here.html" class="home-slider"  slide-img-data="/system/attached_images/208/images/original/HOME_guy_hat.jpg?1333989035" data-interval=8>
 
@@ -737,7 +737,7 @@
 
   <div class="three columns left">
 
-    <img src='img/mapa.png' alt='featured_media_image' />
+    <img src='http://afmaracaibo.org/wp-content/themes/afm/img/mapa.png' alt='featured_media_image' />
 
   </div>
 
@@ -757,7 +757,7 @@
 
 		<p class="link-to-media-item-call-to-action">
 
-		  	<a href="img/mapa.jpg" class="video youtube" target=&quot;_blank&quot;>VER MAPA</a><br />
+		  	<a href="http://afmaracaibo.org/wp-content/themes/afm/img/mapa.jpg" class="video youtube" target=&quot;_blank&quot;>VER MAPA</a><br />
 
 		  
 
