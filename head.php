@@ -9,7 +9,6 @@
 <link rel="image_src" href="http://afmaracaibo.org/logo.jpg" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <title><?php wp_title(''); ?><?php if(wp_title('', false)) { echo ' |'; } ?> Alianza Francesa de Maracaibo @AlianzadeMcbo</title>
-<link rel="shortcut icon" href="http://afmaracaibo.org/favicon.png" type="image/png" />
 <link rel="stylesheet" href="http://afmaracaibo.org/wp-content/themes/afm/style.css" type="text/css" media="screen" />
 <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="http://www.afmaracaibo.org/feed/" />
 <link rel="alternate" type="application/atom+xml" title="Atom Feed" href="http://www.afmaracaibo.org/feed/atom/" />
