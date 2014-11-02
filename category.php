@@ -14,7 +14,7 @@
 <?php // INICIO DEL ARTICULO  ?>
 <?php if (have_posts()) : ?>
 <?php  while (have_posts()) : the_post(); ?>
-					<h3><?php the_date('d/m/Y', '', ''); ?><br><a href="<?php the_permalink(); ?>"><strong><?php the_title(); ?></strong></a></h3>
+					<h3><?php the_time('d/m/Y'); ?><br><a href="<?php the_permalink(); ?>"><strong><?php the_title(); ?></strong></a></h3>
    					<p><?php the_excerpt(); ?></p>
 					<hr>
 <?php endwhile; ?>

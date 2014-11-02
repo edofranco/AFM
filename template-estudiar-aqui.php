@@ -266,10 +266,5 @@ $(function() {
 </div>
 </div>
 </div>
-<script language="javascript">
-$('.slash-number').each(
-function(outerIdx) {
-	$(this).find(">li").each( function(idx) { $(this).find(">a").prepend('<span class="number">' + zfill(idx + 1,2) + "/ </span>"); } );
-		});
-</script>
+
 <?php include("futer.php"); ?> 

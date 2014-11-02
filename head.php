@@ -106,7 +106,7 @@ if(is_page(5)) $clasebody="top-level-why-study-here current-page-why-study-here 
         <a href="http://afmaracaibo.org/cursos/">Informacion de cursos ></a><br>
     </div>
     <ul class="slash-number">
-<?php  query_posts(array('showposts' => 20, 'post_parent' => 7, 'post_type' => 'page')); ?>
+<?php  query_posts(array('showposts' => 20, 'post_parent' => 7, 'post_type' => 'page', 'order' => 'ASC')); ?>
 <?php if (have_posts()) : ?>
  <?php  while (have_posts()) : the_post(); ?>
           <li><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></li>
@@ -132,7 +132,7 @@ if(is_page(5)) $clasebody="top-level-why-study-here current-page-why-study-here 
       </p>
     </div>
     <ul class="slash-number">
-    <?php wp_list_categories('title_li=&hide_empty=0&exclude=1'); ?>
+    <?php wp_list_categories('title_li=&hide_empty=0&child_of=1'); ?>
     </ul> 
   </div>
 </li>
@@ -343,11 +343,11 @@ if(is_page(5)) $clasebody="top-level-why-study-here current-page-why-study-here 
 
         <ul class="mobile-closed" id="more-links">
 
-            <li class="about-us "><a href="#" class="">ACCUEIL</a>
+            <li class="about-us "><a href="http://afmaracaibo.org/" class="">ACCUEIL</a>
 
             </li>
 
-            <li class="about-us "><a href="blog/index.html" class="">NOTICIAS Y EVENTOS</a>
+            <li class="about-us "><a href="http://afmaracaibo.org/cultural/b" class="">NOTICIAS Y EVENTOS</a>
 
             </li>           <li class="about-us "><a href="ohlala/index.html" class="">OH! LÀ LÀ! MARACAÏBO /  PROGRAMA RADIAL URBE 96.3</a>
 
