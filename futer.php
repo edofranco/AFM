@@ -1,167 +1,59 @@
 				<!-- begin footer -->
-
-
-
 			<div class="footer">
-
 			<div class="container">
-
-
-
 			<div class="row">
-
 			<div class="sixteen columns footer-section">
+				<div class="four columns">
+					<ul class="footer-links level-1">
+					<li class="list-1 why-study-here "><a href="#">Por que estudiar aqui?</a>
+						<ul class="level-2"></ul>
+					</li>
+					<li class="list-2 graduate-programs "><a href="#">Cursos</a>
+						<ul class="level-2">
+					<li class="list-2 course-details"><a href="#">Cursos para Adultos</a></li>
+					<li class="list-3 course-details"><a href="#">Cursos para Niños y Adolescentes</a></li>
+					<li class="list-4 course-details"><a href="#">Cursos para Viajeros</a></li>
+					<li class="list-4 course-details"><a href="#">Curso Express</a></li>
+					<li class="list-4 course-details"><a href="#">Cursos Corporativos</a></li>
+					<li class="list-5 course-details"><a href="#">DELF - DALF Certificados</a></li>
+					<li class="list-6 course-details"><a href="#">Campus France</a></li>
+					<li class="list-7 course-details"><a href="#">Quebec</a></li>
+					<li class="list-9 course-details"><a href="#">Talleres Especializados</a></li>
+					<li class="list-9 course-details"><a href="#">TCF pour le Quebec</a></li>
+					<li class="list-9 course-details"><a href="#">Becas Jorge Homez Chacin</a></li>
+						</ul>
+					</li>
 
+					<li class="list-3 course-listing "><a href="#">Cultural</a>
+						<ul class="level-2">
+					<li class="list-1 course-details"><a href="#">Musica</a></li>
+					<li class="list-3 course-details"><a href="#">Exposiciones</a></li>
+					<li class="list-3 course-details"><a href="#">Cinema</a></li>
+					<li class="list-3 course-details"><a href="#">Concursos</a></li>
+					<li class="list-3 course-details"><a href="#">Fotografia</a></li>
+					<li class="list-3 course-details"><a href="#">Danza</a></li>
+					<li class="list-3 course-details"><a href="#">Conferencias</a></li>
+						</ul>
+					</li>
 
+					<li class="list-4 faculty "><a href="#">Mediateca</a>
+						<ul class="level-2">
+					<li class="list-1 full-time "><a href="#">Instalaciones</a>		</li>
+						</ul>
+					</li>
+				</div>
 
 				<div class="four columns">
-
 					<ul class="footer-links level-1">
-
-								<li class="list-1 why-study-here "><a href="http://afmaracaibo.org/por-que-estudiar.html">Por que estudiar aqui?</a>
-
-			<ul class="level-2">
-
-				
-
-			</ul>
-
-		</li>
-
-		<li class="list-2 graduate-programs "><a href="http://afmaracaibo.org/cursos/">Cursos</a>
-
-			<ul class="level-2">
-
-						<li class="list-2 dipcs "><a href="http://afmaracaibo.org/cursos/cursos-para-adultos.html">Cursos para Adultos</a>
-
-		</li>
-
-		<li class="list-3 mcs "><a href="http://afmaracaibo.org/cursos/cursos-para-ninos.html">Cursos para Niños y Adolescentes</a>
-
-		</li>
-
-		<li class="list-4 mdiv "><a href="http://afmaracaibo.org/cursos/cursos-para-viajeros.html">Cursos para Viajeros</a>
-
-		</li>
-
-		<li class="list-4 mdiv "><a href="http://afmaracaibo.org/cursos/curso-express.html">Curso Express</a>
-
-		</li>
-
-		<li class="list-4 mdiv "><a href="http://afmaracaibo.org/cursos/cursos-corporativos.html">Cursos Corporativos</a>
-
-		</li>
-
-		<li class="list-5 thm "><a href="http://afmaracaibo.org/cursos/delf-dalf-certificados.html">DELF - DALF Certificados</a>
-
-		</li>
-
-		<li class="list-6 concentrations "><a href="http://afmaracaibo.org/cursos/campus-france.html">Campus France</a>
-
-		</li>
-
-		<li class="list-7 anglican-studies "><a href="http://afmaracaibo.org/cursos/quebec.html">Quebec</a>
-
-		</li>
-
-		<li class="list-9 choose-your-program "><a href="http://afmaracaibo.org/cursos/talleres-especializados.html">Talleres Especializados</a>
-
-		</li>
-
-		<li class="list-9 choose-your-program "><a href="http://afmaracaibo.org/cursos/tcf-pour-le-quebec.html">TCF pour le Quebec</a>
-
-		</li>
-
-		<li class="list-9 choose-your-program "><a href="http://afmaracaibo.org/cursos/becas.html">Becas Jorge Homez Chacin</a>
-
-		</li>
-
-
-
-			</ul>
-
-		</li>
-
-		<li class="list-3 course-listing "><a href="http://afmaracaibo.org/cultural/">Cultural</a>
-
-			<ul class="level-2">
-
-						<li class="list-1 course-search "><a href="http://afmaracaibo.org/cultural/musica.html">Musica</a>
-
-		</li>
-
-		<li class="list-3 course-details "><a href="http://afmaracaibo.org/cultural/exposiciones.html">Exposiciones</a>
-
-		</li>
-
-		<li class="list-3 course-details "><a href="http://afmaracaibo.org/cultural/cinema.html">Cinema</a>
-
-		</li>
-
-		<li class="list-3 course-details "><a href="http://afmaracaibo.org/cultural/concursos.html">Concursos</a>
-
-		</li>
-
-		<li class="list-3 course-details "><a href="http://afmaracaibo.org/cultural/fotografia.html">Fotografia</a>
-
-		</li>
-
-		<li class="list-3 course-details "><a href="http://afmaracaibo.org/cultural/danza.html">Danza</a>
-
-		</li>
-
-		<li class="list-3 course-details "><a href="http://afmaracaibo.org/cultural/conferencias.html">Conferencias</a>
-
-		</li>
-
-
-
-			</ul>
-
-		</li>
-
-		<li class="list-4 faculty "><a href="http://afmaracaibo.org/mediateca/">Mediateca</a>
-
-			<ul class="level-2">
-
-						<li class="list-1 full-time "><a href="http://afmaracaibo.org/mediateca/">Instalaciones</a>
-
-		</li>
-
-
-
-			</ul>
-
-		</li>
-
-				  </ul>
-
-			  </div>
-
-				<div class="four columns">
-
-                
-
-					<ul class="footer-links level-1">
-
-		<li class="list-6 lifelong-learning "><a href="http://afmaracaibo.org/instalaciones/">Instalaciones</a>
-
-          <ul class="level-2">
-
-            <li class="list-1 costs "><a href="http://afmaracaibo.org/instalaciones/campus.html">Campus</a> </li>
-
-            <li class="list-2 financial-aid "><a href="http://afmaracaibo.org/mediateca/">Mediateca</a> </li>
-
-            <li class="list-3 admission-requirements "><a href="http://afmaracaibo.org/instalaciones/salones.html">Aulas y Salones</a> </li>
-
-            <li class="list-4 study-and-work-permits "><a href="http://afmaracaibo.org/instalaciones/galeriadearte.html">Galeria</a> </li>
-
-            <li class="list-5 transfer-students "><a href="http://afmaracaibo.org/instalaciones/estacionamiento.html">Estacionamiento</a> </li>
-
-            <li class="list-5 transfer-students "><a href="http://afmaracaibo.org/instalaciones/cafetin.html">Cafetin</a> </li>
-
-          </ul>
-
+				<li class="list-6 lifelong-learning "><a href="#">Instalaciones</a>
+	        			<ul class="level-2">
+            		<li class="list-1 course-details"><a href="#">Campus</a> </li>
+		            <li class="list-2 course-details"><a href="#">Mediateca</a> </li>
+		            <li class="list-3 course-details"><a href="#">Aulas y Salones</a> </li>
+		            <li class="list-4 course-details"><a href="#">Galeria</a> </li>
+		            <li class="list-5 course-details"><a href="#">Estacionamiento</a> </li>
+		            <li class="list-5 course-details"><a href="#">Cafetin</a> </li>
+          				</ul>
 		<li class="list-6 lifelong-learning "><a href="http://afmaracaibo.org/nosotros/">Acerca de Nosotros</a>
 
 			<ul class="level-2">
