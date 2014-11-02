@@ -56,8 +56,10 @@
 </script>
 <?php wp_head(); ?>
 </head>
-
-<body>
+<?php 
+$clasebody="";
+if(is_page(5)) $clasebody="top-level-why-study-here current-page-why-study-here default"; ?>
+<body class="<?php echo $clasebody; ?>">
   <!-- container -->
   <div class="container">
   <!-- edit links -->
