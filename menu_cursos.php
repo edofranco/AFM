@@ -6,5 +6,5 @@
  <?php  while (have_posts()) : the_post(); ?>
 	        <li class="list-1 webadvisor-and-registration"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></li>
 <?php endwhile; ?>
-<?php 	endif; ?>
+<?php 	endif; wp_reset_query(); ?>
 	      </ol> 

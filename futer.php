@@ -5,34 +5,23 @@
 			<div class="sixteen columns footer-section">
 				<div class="four columns">
 					<ul class="footer-links level-1">
-					<li class="list-1 why-study-here "><a href="#">Por que estudiar aqui?</a>
+					<li class="list-1 why-study-here "><a href="#">¿Por qué estudiar aquí?</a>
 						<ul class="level-2"></ul>
 					</li>
 					<li class="list-2 graduate-programs "><a href="#">Cursos</a>
 						<ul class="level-2">
-					<li class="list-2 course-details"><a href="#">Cursos para Adultos</a></li>
-					<li class="list-3 course-details"><a href="#">Cursos para Niños y Adolescentes</a></li>
-					<li class="list-4 course-details"><a href="#">Cursos para Viajeros</a></li>
-					<li class="list-4 course-details"><a href="#">Curso Express</a></li>
-					<li class="list-4 course-details"><a href="#">Cursos Corporativos</a></li>
-					<li class="list-5 course-details"><a href="#">DELF - DALF Certificados</a></li>
-					<li class="list-6 course-details"><a href="#">Campus France</a></li>
-					<li class="list-7 course-details"><a href="#">Quebec</a></li>
-					<li class="list-9 course-details"><a href="#">Talleres Especializados</a></li>
-					<li class="list-9 course-details"><a href="#">TCF pour le Quebec</a></li>
-					<li class="list-9 course-details"><a href="#">Becas Jorge Homez Chacin</a></li>
+						<?php  query_posts(array('showposts' => 20, 'post_parent' => 7, 'post_type' => 'page', 'order' => 'ASC')); ?>
+						<?php $cont=0; if (have_posts()) : ?>
+						 <?php  while (have_posts()) : the_post(); ?>
+		 <li class="list-<?php $cont++; echo $cont; ?>"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></li>
+						<?php endwhile; ?>
+						<?php 	endif; wp_reset_query(); ?>
 						</ul>
 					</li>
 
 					<li class="list-3 course-listing "><a href="#">Cultural</a>
 						<ul class="level-2">
-					<li class="list-1 course-details"><a href="#">Musica</a></li>
-					<li class="list-3 course-details"><a href="#">Exposiciones</a></li>
-					<li class="list-3 course-details"><a href="#">Cinema</a></li>
-					<li class="list-3 course-details"><a href="#">Concursos</a></li>
-					<li class="list-3 course-details"><a href="#">Fotografia</a></li>
-					<li class="list-3 course-details"><a href="#">Danza</a></li>
-					<li class="list-3 course-details"><a href="#">Conferencias</a></li>
+							<?php wp_list_categories('title_li=&hide_empty=0&child_of=1'); ?>
 						</ul>
 					</li>
 
