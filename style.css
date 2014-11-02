@@ -269,6 +269,12 @@ ul.primary-nav li:hover ul a:hover{color:#fff}
 .secondary-nav ul li{display:block;float:left;text-transform:uppercase;margin:0 10px 0 0;padding:0;max-height:28px;background:url(http://afmaracaibo.org/wp-content/themes/afm/images/misc/sub-nav-divider.png) 100% 8px no-repeat}
 .secondary-nav ul li:last-child {background:none !important; }
 
+.masnoticias h2 { display: block; width: 100%; line-height: 30px; text-align: center; color: #fff; background: #00b3d4; font-size: 11px;   }
+.masnoticias p { margin-bottom: 10px !important; margin-left: 10px !important;   }
+.masnoticias a { margin-left: 10px;  }
+.imxtribar1 a { width: 360px; display: block; height: 173px; background-size: cover !important;  }
+.imxtribar2  { width: 180px;  }
+.imxtribar2 a { width: 180px; display: block; height: 173px; background-size: cover !important;  }
 .secondary-nav ul li.library{background:none}
 .secondary-nav ul li a{color:#000;font-size:1.1rem;font-weight:bold;line-height:1;padding:8px 12px 9px 0;display:inline-block}
 .secondary-nav ul li a.hover,.secondary-nav ul li.active-trail a,.secondary-nav ul li.active a{color:#00B3D4;background:none}

@@ -22,7 +22,7 @@ include("head.php"); ?>
 
 				<div class="action-banner">
 					<ul>
-<?php wp_list_categories('title_li=&hide_empty=0&exclude=1'); ?>
+<?php wp_list_categories('title_li=&hide_empty=0&child_of=1'); ?>
 					</ul>
 				</div>
 				</div>

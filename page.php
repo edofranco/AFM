@@ -19,6 +19,13 @@ include("head.php"); ?>
 <?php 	endif; ?>
 <div class="three columns left-sidebar pull-thirteen"> 				
 <div class="left-navigation">
+	
+			<div class="sidebar-details-content">
+			 	<h3 class="content-block-title"><?php echo get_post_meta( $post->ID, "dia",true); ?></h3>
+			 	<div class="sidebar-detail-item"><p><?php echo get_post_meta( $post->ID, "lugar",true); ?></p></div>
+			    <div class="sidebar-detail-item"><p><?php echo get_post_meta( $post->ID, "nota",true); ?></p></div>
+			    <div class="sidebar-detail-item"><?php laimagen2(180,1200,$post->ID); ?></div>
+			</div> 
     <?php // include("menu_cursos.php");  ?>
 </div>
 		<div class="share-this-page">

@@ -176,7 +176,7 @@ if(is_page(5)) $clasebody="top-level-why-study-here current-page-why-study-here 
     <div class="subnav-content-highlight">
       <p><img src="http://afmaracaibo.org/wp-content/themes/afm/img/nosotrosmenu.jpg?1332881536"><br></p>
     </div>
-    <ul class="slash-number"  style="min-height:0px;">>
+    <ul class="slash-number"  style="min-height:0px;">
       <p>
       Reseña histórica, antecedentes y crecimiento de nuestra institucion.
       </p>
