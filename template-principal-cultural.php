@@ -1,25 +1,36 @@
 <?php
+/*
+Template Name: Principal Cultural 
+*/ 
 include("head.php"); ?>
-<?php // INICIO DEL ARTICULO  ?>
-<?php if (have_posts()) : ?>
- <?php  while (have_posts()) : the_post(); ?>
-	<!-- container -->
 	<div class="container">
 	<div class="row">
 	<div class="sixteen columns">
-		<div class="title-one"><a href="index.html"><?php the_title(); ?></a></div>
+		<div class="title-one"><a>Cultural</a></div>
 	<div class="sixteen columns content-container">  
 		<div class="thirteen columns push-three">
- 			<!-- contenido de la seccion -->
+
 			<div class="content">
+<?php if (have_posts()) : ?>
+ <?php  while (have_posts()) : the_post(); ?>
+ <div class="banner-image"><span class="banner-image-overlay"></span><img src='<?php echo laimagen3($post->ID); ?>' alt='page_banner' /></div>
+ 					
 					<?php the_content(); ?>
-			</div>
-		</div>
 <?php endwhile; ?>
 <?php 	endif; ?>
+			
+
+				<div class="action-banner">
+					<ul>
+<?php wp_list_categories('title_li=&hide_empty=0&exclude=1'); ?>
+					</ul>
+				</div>
+				</div>
+		</div>
+
 <div class="three columns left-sidebar pull-thirteen"> 				
 <div class="left-navigation">
-    <?php // include("menu_cursos.php");  ?>
+    <?php include("menu_cats.php");  ?>
 </div>
 		<div class="share-this-page">
 			<!-- AddThis Button BEGIN -->

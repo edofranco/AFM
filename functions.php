@@ -62,16 +62,10 @@ function laimagen($anchox=390,$altox=1200,$elidx)
 		//LLAMA LA FUNCION LOS PARAMETROS SON EN ESTE ORDEN: ANCHO,ALTO,IMGDEST,CLASE
  } //FIN HABEMUSIMX
 
- function laimagen3($elidx,$ignorar=false) //SOLO BUSCA EL IMGDEST
+ function laimagen3($elidx) //SOLO BUSCA EL IMGDEST
 {  
 	$imgdest ='';
-
-			if(!$ignorar){
-            $imgdest = get_post_meta($elidx,'wpcf-sliderimg', true); //
-            if($imgdest=='') $imgdest = get_post_meta($elidx,'wpcf-sliderimx', true);
-        	}
-
-			  if($imgdest==''){ //SI EL PARAMETRO IMGDEST ESTA VACIO BUSCA LA IMAGEN DESTACADA
+	if($imgdest==''){ //SI EL PARAMETRO IMGDEST ESTA VACIO BUSCA LA IMAGEN DESTACADA
 				 $imagx = wp_get_attachment_image_src( get_post_thumbnail_id( $elidx ), 'large' ); //BUSCA EL URL DE LA IMAGEN DESTACADA
 				 $imgdest = $imagx[0]; //BUSCA SI HAY UN CAMPO PERSONALIZADO COMO IMGDEST
 				 if($imgdest==''){

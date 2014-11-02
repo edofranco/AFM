@@ -70,7 +70,7 @@ if(is_page(5)) $clasebody="top-level-why-study-here current-page-why-study-here 
 
       <div class="three columns logo">
 
-        <a href="index.html" title="Alianza Francesa Maracaibo">Alianza francesa</a>
+        <a href="http://afmaracaibo.org/" title="Alianza Francesa Maracaibo">Alianza francesa</a>
 
       </div>
 
@@ -80,45 +80,16 @@ if(is_page(5)) $clasebody="top-level-why-study-here current-page-why-study-here 
 
       <ul class="thirteen columns primary-nav">
 
-          <li class="why-study-here two"><a href="por-que-estudiar.html">Por que estudiar aqui?</a>
-
-                <div class="dropdown">
-
-                  <div class="subnav-arw"></div>
-
-                  <div class="subnav-title">Por que Estudiar?</div>
-
-                  <div class="subnav-content-highlight">
-
-                    
-
-                    <!--
-
-                    <p><strong>Top Content</strong><br />
-
-                      Dolor sit but amet, the my our dolor sit but amet, the my our dolor sit but amet, the my our.</p>
-
-                    <p><strong>News & Events</strong><br />
-
-                      This is a news or event title<br />
-
-                      This is a news or event title<br />
-
-                      This is a news or event title</p>
-
-                    -->
-
-                  </div>
-
-                  <ul class="slash-number">
-
-                  
-
-                  </ul>
-
-                </div>
-
-        </li>
+<li class="why-study-here two"><a href="http://afmaracaibo.org/por-que-estudiar-aqui/">¿Por qué estudiar aquí?</a>
+  <div class="dropdown">
+    <div class="subnav-arw"></div>
+    <div class="subnav-title">¿Por qué estudiar aquí?</div>
+    <div class="subnav-content-highlight">
+    </div>
+    <ul class="slash-number">
+    </ul>
+  </div>
+</li>
 
 <li class="graduate-programs two"><a href="http://afmaracaibo.org/cursos/">Cursos</a>
   <div class="dropdown">

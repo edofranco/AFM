@@ -601,7 +601,7 @@ h1.landing-page-title{font-size:2.2rem;text-transform:uppercase}
 .content-container .thirteen.columns .action-banner ul li{margin:0 0 3px 0}
 .action-banner ul{width:100%}
 .action-banner ul li{width:32.5%;margin:0 0 4px 0;text-transform:uppercase;list-style:none;display:inline-block;vertical-align:top}
-.action-banner ul li a{min-height:79px;padding:65px 10px 6px 15px;color:#fff;display:block;background:#24418f url(http://afmaracaibo.org/wp-content/themes/afm/images/misc/bg-pattern-overlay.png) 0 -750px no-repeat;border:none!important}
+.action-banner ul li a{min-height:79px;padding:45px 10px 26px 15px;color:#fff;display:block;background:#24418f url(http://afmaracaibo.org/wp-content/themes/afm/images/misc/bg-pattern-overlay.png) 0 -750px no-repeat;border:none!important}
 .action-banner ul li a:hover{color:#fff;text-decoration:none;background-color:#133386;border:none}
 .action-banner ul li.list-1 a{background-color:#579b18}
 .action-banner ul li.list-1 a:hover{background-color:#478d07}
@@ -629,6 +629,33 @@ h1.landing-page-title{font-size:2.2rem;text-transform:uppercase}
 .action-banner ul li.list-12 a:hover{background-color:#fd2121}
 .action-banner ul li.list-13 a{background-color:#ff690e}
 .action-banner ul li.list-13 a:hover{background-color:#f65d00}
+
+.action-banner ul li.cat-item:nth-child(0) a{background-color:#579b18}
+.action-banner ul li.cat-item:nth-child(0) a:hover{background-color:#478d07}
+.action-banner ul li.cat-item:nth-child(1) a{background-color:#00b3d4}
+.action-banner ul li.cat-item:nth-child(1) a:hover{background-color:#02a4c7}
+.action-banner ul li.cat-item:nth-child(2) a{background-color:#a90177}
+.action-banner ul li.cat-item:nth-child(2) a:hover{background-color:#950269}
+.action-banner ul li.cat-item:nth-child(3) a{background-color:#007547}
+.action-banner ul li.cat-item:nth-child(3) a:hover{background-color:#01633c}
+.action-banner ul li.cat-item:nth-child(4) a{background-color:#0580cc}
+.action-banner ul li.cat-item:nth-child(4) a:hover{background-color:#0775ba}
+.action-banner ul li.cat-item:nth-child(5) a{background-color:#461164}
+.action-banner ul li.cat-item:nth-child(5) a:hover{background-color:#380754}
+.action-banner ul li.cat-item:nth-child(6) a{background-color:#c8d402}
+.action-banner ul li.cat-item:nth-child(6) a:hover{background-color:#b9c401}
+.action-banner ul li.cat-item:nth-child(7) a{background-color:#00aeef}
+.action-banner ul li.cat-item:nth-child(7) a:hover{background-color:#0297d5}
+.action-banner ul li.cat-item:nth-child(8) a{background-color:#64006b}
+.action-banner ul li.cat-item:nth-child(8) a:hover{background-color:#520058}
+.action-banner ul li.cat-item:nth-child(9) a{background-color:#e2bc0c}
+.action-banner ul li.cat-item:nth-child(9) a:hover{background-color:#d7b208}
+.action-banner ul li.cat-item:nth-child(10) a{background-color:#24418f}
+.action-banner ul li.cat-item:nth-child(10) a:hover{background-color:#133386}
+.action-banner ul li.cat-item:nth-child(11) a{background-color:#fa3737}
+.action-banner ul li.cat-item:nth-child(11) a:hover{background-color:#fd2121}
+.action-banner ul li.cat-item:nth-child(12) a{background-color:#ff690e}
+.action-banner ul li.cat-item:nth-child(12) a:hover{background-color:#f65d00}
 .top-level-why-study-here .sixteen.columns.content-container{border:none}
 .top-level-why-study-here .action-banner ul li{width:236px}
 .top-level-why-study-here .action-banner ul li a{min-height:164px;padding:10px 10px 6px 15px}
