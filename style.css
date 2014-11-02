@@ -267,8 +267,10 @@ ul.primary-nav>li:hover{color:#fff}
 ul.primary-nav li:hover ul a:hover{color:#fff}
 .secondary-nav ul{width:100%;float:left;margin-bottom:0px!important;border-top:1px dotted #b0b5b5;border-bottom:1px dotted #b0b5b5;position:relative;z-index:15}
 .secondary-nav ul li{display:block;float:left;text-transform:uppercase;margin:0 10px 0 0;padding:0;max-height:28px;background:url(http://afmaracaibo.org/wp-content/themes/afm/images/misc/sub-nav-divider.png) 100% 8px no-repeat}
+.secondary-nav ul li:last-child {background:none !important; }
+
 .secondary-nav ul li.library{background:none}
-.secondary-nav ul li a{color:#000;font-size:1.1rem;font-weight:bold;line-height:1;padding:8px 17.5px 9px 0;display:inline-block}
+.secondary-nav ul li a{color:#000;font-size:1.1rem;font-weight:bold;line-height:1;padding:8px 12px 9px 0;display:inline-block}
 .secondary-nav ul li a.hover,.secondary-nav ul li.active-trail a,.secondary-nav ul li.active a{color:#00B3D4;background:none}
 .secondary-nav ul li.external{padding:0 16px 0 0}
 .secondary-nav ul li.external a{background:url(http://afmaracaibo.org/wp-content/themes/afm/images/misc/external-link.png) 100% 9px no-repeat}

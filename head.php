@@ -137,240 +137,69 @@ if(is_page(5)) $clasebody="top-level-why-study-here current-page-why-study-here 
   </div>
 </li>
 
-          <li class="faculty two"><a href="mediateca/index.html">MEDIATECA</a>
-
-                <div class="dropdown">
-
-                  <div class="subnav-arw"></div>
-
-                  <div class="subnav-title">Dentro de la Mediateca</div>
-
-                  <div class="subnav-content-highlight">
-
-                            <p><img src="http://afmaracaibo.org/wp-content/themes/afm/img/mdiatecamenu.jpg?1333041245"><br></p><p>
-
-  La Mediateca de la Alianza Francesa de Maracaibo es un espacio privilegiado que se pone a disposición del público francófono, estudiantes y publico general.
-
-</p>
-
-
-
-                    <!--
-
-                    <p><strong>Top Content</strong><br />
-
-                      Dolor sit but amet, the my our dolor sit but amet, the my our dolor sit but amet, the my our.</p>
-
-                    <p><strong>News & Events</strong><br />
-
-                      This is a news or event title<br />
-
-                      This is a news or event title<br />
-
-                      This is a news or event title</p>
-
-                    -->
-
-                  </div>
-
-                  <ul class="slash-number">
-
-                      <li class="list-1 full-time "><a href="mediateca/index.html">Instalaciones</a>
-
-    </li>
-
-
-
-                  </ul>
-
-                </div>
-
-        </li>
-
-          <li class="admissions-finance two"><a href="instalaciones/index.html">INSTALACIONES</a>
-
-                <div class="dropdown">
-
-                  <div class="subnav-arw"></div>
-
-                  <div class="subnav-title">Dentro de Instalaciones</div>
-
-                  <div class="subnav-content-highlight">
-
-                            
-
-<p>
-
-  <img src="http://afmaracaibo.org/wp-content/themes/afm/img/instalacionesmenu.jpg?1332894544"><br>
-
-</p>
-
-<p>
-
-  La Mediateca de la Alianza Francesa de Maracaibo es un espacio privilegiado que pone a disposición del público francófono, estudiantes y publico general las obras, el pensamiento.
-
-</p>
-
-
-
-
-
-                    <!--
-
-                    <p><strong>Top Content</strong><br />
-
-                      Dolor sit but amet, the my our dolor sit but amet, the my our dolor sit but amet, the my our.</p>
-
-                    <p><strong>News & Events</strong><br />
-
-                      This is a news or event title<br />
-
-                      This is a news or event title<br />
-
-                      This is a news or event title</p>
-
-                    -->
-
-                  </div>
-
-                  <ul class="slash-number">
-
-                      <li class="list-6 chapel "><a href="instalaciones/campus.html">Campus</a>
-
-    </li>
-
-                      <li class="list-3 accessibility "><a href="instalaciones/mediateca.html">Mediateca</a>
-
-    </li>
-
-                      <li class="list-4 library "><a href="instalaciones/salones.html">Aulas - Salones</a>
-
-    </li>
-
-                      <li class="list-5 bookstore "><a href="instalaciones/galeriadearte.html">Galeria</a>
-
-    </li>
-
-                      <li class="list-7 lookout-gallery "><a href="instalaciones/estacionamiento.html">Estacionamiento</a>
-
-    </li>
-
-                      <li class="list-8 art-and-architecture "><a href="instalaciones/cafetin.html">Cafetin</a>
-
-    </li>
-
-
-
-                  </ul>
-
-                </div>
-
-        </li>
-
-          <li class="lifelong-learning two"><a href="nosotros/index.html">ACERCA DE NOSOTROS</a>
-
-                <div class="dropdown">
-
-                  <div class="subnav-arw"></div>
-
-                  <div class="subnav-title">dentro de acerca de nosotros</div>
-
-                  <div class="subnav-content-highlight">
-
-                            <p><img src="http://afmaracaibo.org/wp-content/themes/afm/img/nosotrosmenu.jpg?1332881536"><br></p><p>
-
-  Reseña histórica, antecedentes y crecimiento de nuestra institucion.
-
-</p>
-
-
-
-                    <!--
-
-                    <p><strong>Top Content</strong><br />
-
-                      Dolor sit but amet, the my our dolor sit but amet, the my our dolor sit but amet, the my our.</p>
-
-                    <p><strong>News & Events</strong><br />
-
-                      This is a news or event title<br />
-
-                      This is a news or event title<br />
-
-                      This is a news or event title</p>
-
-                    -->
-
-                  </div>
-
-                  <ul class="slash-number">
-
-                      <li class="list-1 summer-programs "><a href="nosotros/antecedentes.html">Antecedentes</a>
-
-    </li>
-
-    <li class="list-2 distance-education "><a href="nosotros/historia.html">Historia</a>
-
-    </li>
-
-    <li class="list-3 weekends "><a href="nosotros/crecimiento.html">Crecimiento</a>
-
-    </li>
-
-    <li class="list-4 evenings "><a href="nosotros/fundacion.html">Fundacion</a>
-
-    </li>
-
-<li class="list-4 evenings "><a href="nosotros/reglamento.html">Reglamento</a>
-
-    </li>
-
-
-
-                  </ul>
-
-                </div>
-
-        </li>
-
-      </ul>
-
-
-
-      <div class="sixteen columns secondary-nav">
-
-        <a class="show-on-phones mobile-closed" id="more-links-toggle" data-toggle="collapse" data-target="#more-links" data-dismiss="alert">Mas Enlaces</a>
-
-        <ul class="mobile-closed" id="more-links">
-
-            <li class="about-us "><a href="http://afmaracaibo.org/" class="">ACCUEIL</a>
-
-            </li>
-
-            <li class="about-us "><a href="http://afmaracaibo.org/cultural/b" class="">NOTICIAS Y EVENTOS</a>
-
-            </li>           <li class="about-us "><a href="ohlala/index.html" class="">OH! LÀ LÀ! MARACAÏBO /  PROGRAMA RADIAL URBE 96.3</a>
-
-            </li>
-
-<li class="our-campus "><a href="evaluanos/index.html" class="">EVALUANOS</a>
-
-          </li>
-
-<li class="about-us external "><a href="http://www.fondation-alliancefr.org/" target="_blank" class="">FONDATION ALLIANCE FRANÇAISE </a>
-
-</li><li class="about-us "><a href="contactos/index.html" class="">CONTACTOS </a>
-
-
+<li class="faculty two"><a href="http://afmaracaibo.org/mediateca/">MEDIATECA</a>
+        <div class="dropdown">
+          <div class="subnav-arw"></div>
+          <div class="subnav-title">Dentro de la Mediateca</div>
+          <div class="subnav-content-highlight">
+             <p><img src="http://afmaracaibo.org/wp-content/themes/afm/img/mdiatecamenu.jpg?1333041245"><br></p>
+          </div>
+          <ul class="slash-number" style="min-height:0px;">
+            <p>
+            La Mediateca de la Alianza Francesa de Maracaibo es un espacio privilegiado que se pone a disposición del público francófono, estudiantes y publico general.
+            </p>
+           </ul>
+        </div>
+</li>
+
+<li class="admissions-finance two"><a href="http://afmaracaibo.org/instalaciones/">INSTALACIONES</a>
+  <div class="dropdown">
+    <div class="subnav-arw"></div>
+    <div class="subnav-title">Dentro de Instalaciones</div>
+    <div class="subnav-content-highlight">                          
+    <p>
+    <img src="http://afmaracaibo.org/wp-content/themes/afm/img/instalacionesmenu.jpg?1332894544"><br>
+    </p>
+    </div>
+    <ul class="slash-number" style="min-height:0px;">
+      <p>
+        La Mediateca de la Alianza Francesa de Maracaibo es un espacio privilegiado que pone a disposición del público francófono, estudiantes y publico general las obras, el pensamiento.
+      </p>
+    </ul>
+  </div>
+</li>
+
+<li class="lifelong-learning two"><a href="http://afmaracaibo.org/acerca/">ACERCA DE NOSOTROS</a>
+  <div class="dropdown">
+    <div class="subnav-arw"></div>
+    <div class="subnav-title">Acerca de la Alianza Francesa de Maracaibo</div>
+    <div class="subnav-content-highlight">
+      <p><img src="http://afmaracaibo.org/wp-content/themes/afm/img/nosotrosmenu.jpg?1332881536"><br></p>
+    </div>
+    <ul class="slash-number"  style="min-height:0px;">>
+      <p>
+      Reseña histórica, antecedentes y crecimiento de nuestra institucion.
+      </p>
+    </ul>
+  </div>
+ </li>
 
 </ul>
 
-      </div>
 
+<div class="sixteen columns secondary-nav">
+  <a class="show-on-phones mobile-closed" id="more-links-toggle" data-toggle="collapse" data-target="#more-links" data-dismiss="alert">Mas Enlaces</a>
+  <ul class="mobile-closed" id="more-links">
+      <li><a href="http://afmaracaibo.org/" class="">ACCUEIL</a></li>
+      <li><a href="http://afmaracaibo.org/cultural/b" class="">NOTICIAS Y EVENTOS</a></li>           
+      <li><a href="http://afmaracaibo.org/oh-la-la-maracaibo-programa-radial-urbe-96-3/" class="">OH! LÀ LÀ! MARACAÏBO /  PROGRAMA RADIAL URBE 96.3</a></li>
+      <li><a href="http://afmaracaibo.org/evaluanos" class="">EVALUANOS</a></li>
+      <li class="external"><a href="http://www.fondation-alliancefr.org/" target="_blank" class="">FONDATION ALLIANCE FRANÇAISE </a></li>
+      <li><a href="http://afmaracaibo.org/contacto" class="">CONTACTO</a> 
+  </ul>
+</div>
 
-
-      </div>
-
-    </div>
+</div>
+</div>
 
     <!-- End Header -->
