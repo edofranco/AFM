@@ -120,209 +120,51 @@ if(is_page(5)) $clasebody="top-level-why-study-here current-page-why-study-here 
 
         </li>
 
-          <li class="graduate-programs two"><a href="cursos/index.html">Cursos</a>
-
-                <div class="dropdown">
-
-                  <div class="subnav-arw"></div>
-
-                  <div class="subnav-title">Dentro de Cursos</div>
-
-                  <div class="subnav-content-highlight">
-
-                            
-
-<p>
-
-  <img src="http://afmaracaibo.org/wp-content/themes/afm/img/cursosmenu.jpg?1332881439"><br>
-
-</p>
-
-<p>
-
-  Cursos para todas las edades, corporaciones y planes de becas.
-
-</p>
-
-<p>
-
-  <a href="cursos/index.html">Informacion de cursos ></a><br>
-
-</p>
-
-
-
-
-
-                    <!--
-
-                    <p><strong>Top Content</strong><br />
-
-                      Dolor sit but amet, the my our dolor sit but amet, the my our dolor sit but amet, the my our.</p>
-
-                    <p><strong>News & Events</strong><br />
-
-                      This is a news or event title<br />
-
-                      This is a news or event title<br />
-
-                      This is a news or event title</p>
-
-                    -->
-
-                  </div>
-
-                  <ul class="slash-number">
-
-    <li class="list-2 dipcs "><a href="cursos/cursos-para-adultos.html">Cursos para adultos</a>
-
-    </li>
-
-    <li class="list-3 mcs "><a href="cursos/cursos-para-ninos-y-adolescentes.html">Cursos para Niños y Adolescentes</a>
-
-    </li>
-
-    <li class="list-3 mcs "><a href="cursos/cursos-para-viajeros.html">Cursos para viajeros</a>
-
-    </li>
-
-    <li class="list-3 mcs "><a href="cursos/curso-express.html">Curso Express</a>
-
-    </li>
-
-    <li class="list-4 mdiv "><a href="cursos/cursos-corporativos.html">Cursos Corporativos</a>
-
-    </li>
-
-    <li class="list-5 thm "><a href="cursos/delf-dalf-certificados.html">DELF - DALF Certificados</a>
-
-    </li>
-
-    <li class="list-6 concentrations "><a href="cursos/campus-france.html">Campus France</a>
-
-    </li>
-
-    <li class="list-7 anglican-studies "><a href="cursos/quebec.html">Quebec</a>
-
-    </li>
-
-        <li class="list-9 choose-your-program "><a href="cursos/talleres-especializados.html">Talleres Especializados</a>
-
-    </li>
-
-    <li class="list-10 choose-your-program "><a href="cursos/tcf-pour-le-quebec.html">TCF pour le Quebec</a>
-
-    </li>
-
-    <li class="list-11 choose-your-program "><a href="cursos/becas.html">Becas Jorge Homez Chacin </a>
-
-    </li>
-
-    <li class="list-11 choose-your-program "><a href="cursos/la-parole
-
--aux-etudiants.html">La parole
-
- aux étudiants </a>
-
-    </li>
-
-                  </ul>
-
-                </div>
-
-        </li>
-
-          <li class="course-listing two"><a href="cultural/index.html">Cultural</a>
-
-<div class="dropdown">
-
-                  <div class="subnav-arw"></div>
-
-                  <div class="subnav-title">Dentro de Cultural</div>
-
-                  <div class="subnav-content-highlight">
-
-                            
-
-<p>
-
-  <img src="http://afmaracaibo.org/wp-content/themes/afm/img/culturalmenu.jpg?1332881386">
-
-</p>
-
-<p>
-
-  UN IDIOMA SE APRENDE MEJOR CUANDO SE CONOCE SU CULTURA.
-
-</p>
-
-<p>
-
-  <a href="cultural/index.html">Ver culturales&nbsp;&gt;</a>
-
-</p>
-
-
-
-
-
-                    <!--
-
-                    <p><strong>Top Content</strong><br />
-
-                      Dolor sit but amet, the my our dolor sit but amet, the my our dolor sit but amet, the my our.</p>
-
-                    <p><strong>News & Events</strong><br />
-
-                      This is a news or event title<br />
-
-                      This is a news or event title<br />
-
-                      This is a news or event title</p>
-
-                    -->
-
-                  </div>
-
-                  <ul class="slash-number">
-
-    <li class="list-2 dipcs "><a href="cultural/musica.html">Musica</a>
-
-    </li>
-
-    <li class="list-4 mdiv "><a href="cultural/exposiciones.html">Exposiciones</a>
-
-    </li>
-
-    <li class="list-5 thm "><a href="cultural/cinema.html">Cinema</a>
-
-    </li>
-
-    <li class="list-6 concentrations "><a href="cultural/concursos.html">Concursos</a>
-
-    </li>
-
-    <li class="list-7 anglican-studies "><a href="cultural/fotografia.html">Fotografía</a>
-
-    </li>
-
-    <li class="list-8 chinese-studies "><a href="cultural/danzas.html">Danzas</a>
-
-    </li>
-
-    <li class="list-9 choose-your-program "><a href="cultural/conferencias.html">Conferencias</a>
-
-    </li>
-
-    <li class="list-9 choose-your-program "><a href="cultural/teatro.html">Teatro</a>
-
-    </li>
-
-                  </ul>
-
-            </div>
-
-        </li>
+<li class="graduate-programs two"><a href="http://afmaracaibo.org/cursos/">Cursos</a>
+  <div class="dropdown">
+    <div class="subnav-arw"></div>
+    <div class="subnav-title">Dentro de Cursos</div>
+    <div class="subnav-content-highlight">
+      <p>
+        <img src="http://afmaracaibo.org/wp-content/themes/afm/img/cursosmenu.jpg"><br>
+      </p>
+      <p>
+        Cursos para todas las edades, corporaciones y planes de becas.
+      </p>
+      <p>
+        <a href="http://afmaracaibo.org/cursos/">Informacion de cursos ></a><br>
+    </div>
+    <ul class="slash-number">
+<?php  query_posts(array('showposts' => 20, 'post_parent' => 7, 'post_type' => 'page')); ?>
+<?php if (have_posts()) : ?>
+ <?php  while (have_posts()) : the_post(); ?>
+          <li><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></li>
+<?php endwhile; ?>
+<?php   endif; wp_reset_query(); ?>
+    </ul>
+  </div>
+</li>
+
+<li class="course-listing two"><a href="http://afmaracaibo.org/cultural/">Cultural</a>
+  <div class="dropdown">
+    <div class="subnav-arw"></div>
+    <div class="subnav-title">Dentro de Cultural</div>
+    <div class="subnav-content-highlight">
+      <p>
+        <img src="http://afmaracaibo.org/wp-content/themes/afm/img/culturalmenu.jpg">
+      </p>
+      <p>
+        UN IDIOMA SE APRENDE MEJOR CUANDO SE CONOCE SU CULTURA.
+      </p>
+      <p>
+        <a href="http://afmaracaibo.org/cultural/">Ver culturales&nbsp;&gt;</a>
+      </p>
+    </div>
+    <ul class="slash-number">
+    <?php wp_list_categories('title_li=&hide_empty=0&exclude=1'); ?>
+    </ul> 
+  </div>
+</li>
 
           <li class="faculty two"><a href="mediateca/index.html">MEDIATECA</a>
 
